@@ -24,7 +24,7 @@ My name is Mahambet, and I am a Software QA Engineer. Here, I want to share a po
 
 ## Technologies and Tools I Use
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://camo.githubusercontent.com/846a58b5795502a7f7b4016dd2c934bad2d3b80341db7ce9fc0ada3c8a1ac2d3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2e737667" alt="Jira" title="Jira" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/25f6f3de7ca12c8c300b6f0a7b37c48c1e6176ded2f38d770a9d5e9b9d24fce7/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f333862356339353361343636373336363638356435356462353564303537633836646231666335342f61306664632f7374617469632f61636165366232346439343033343736363163613930316561303766343763312f6368726f6d652d6465762d6c6f676f2d69636f6e2e706e67" alt="DevTools" title="DevTools" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/66653fb9b350122ece0a9db72f67c75ec0316efe11126b7c7e46296ce64e2561/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343230322f706f73746d616e2d69636f6e2e737667" alt="Postman" title="Postman" width="40" height="40"/>
@@ -42,6 +42,15 @@ My name is Mahambet, and I am a Software QA Engineer. Here, I want to share a po
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="WordPress" title="WordPress" width="40" height="40"/>
 </div>
 
-
-
-Take a look at my repositories and let's get in touch!
+## Take a look at my repositories and let's get in touch!
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" title="LinkedIn" width="40"/>
+  </a>
+  <a href="https://t.me/your-telegram-username" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" title="Telegram" width="40"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" title="Gmail" width="40"/>
+  </a>
+</div>
