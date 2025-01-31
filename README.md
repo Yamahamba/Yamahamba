@@ -4,13 +4,11 @@ My name is Mahambet, and I am a Software QA Engineer. Here, I want to share a po
 
 ## A Few Quick Facts
 
-## A Few Quick Facts About Me
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div>
     <ul>
       <li>✅ I worked at Kaspi Bank in the Kaspi Store and Kaspi Delivery departments, where I was responsible for key processes and partner interactions.</li>
-      <li>📦 At Choco, I worked as a Key Account Manager, collaborating with the company's largest partners.</li>
+      <li> ❤️ At Choco, I worked as a Key Account Manager, collaborating with the company's largest partners.</li>
       <li>🏫 I founded and managed my own language school, combining education and business management.</li>
       <li>🌐 I have experience developing websites on platforms like WordPress and OpenCart.</li>
       <li>📖 I completed a functional software testing course: <a href="link_to_course">Finished functional software testing course</a>.</li>
@@ -20,7 +18,7 @@ My name is Mahambet, and I am a Software QA Engineer. Here, I want to share a po
     </ul>
   </div>
   <div>
-    <img src="https://github.com/Yamahamba/Yamahamba/blob/main/assets/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64322f31322f63652f64323132636534633935393534666166373432376662653934316135353466382e676966.gif" alt="GIF" width="300" height="auto" style="border-radius: 10px;"/>
+    <img src="link_to_your_gif.gif" alt="GIF" width="300" style="border-radius: 10px;"/>
   </div>
 </div>
 
