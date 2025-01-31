@@ -3,9 +3,29 @@
 ## Hey, let me find some
 My name is Mahambet, and I am a Software QA Engineer. Here, I want to share a portfolio of web application projects and testing that I have developed during my studies and work on pet projects.
 
-A Few Quick Facts
+## A Few Quick Facts
 
-## Some Tools and Languages I Use
+## A Few Quick Facts About Me
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <ul>
+      <li>✅ I worked at Kaspi Bank in the Kaspi Store and Kaspi Delivery departments, where I was responsible for key processes and partner interactions.</li>
+      <li>📦 At Choco, I worked as a Key Account Manager, collaborating with the company's largest partners.</li>
+      <li>🏫 I founded and managed my own language school, combining education and business management.</li>
+      <li>🌐 I have experience developing websites on platforms like WordPress and OpenCart.</li>
+      <li>📖 I completed a functional software testing course: <a href="link_to_course">Finished functional software testing course</a>.</li>
+      <li>☕ I am also studying Java to improve my skills in test automation.</li>
+      <li>📄 Check out my resume: <a href="link_to_resume">Check out my resume</a>.</li>
+      <li>🎵 Random fact about me: I love chess, riding bicycles, and listening to Olivia Rodrigo.</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://github.com/Yamahamba/Yamahamba/blob/main/assets/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64322f31322f63652f64323132636534633935393534666166373432376662653934316135353466382e676966.gif" alt="GIF" width="300" height="auto" style="border-radius: 10px;"/>
+  </div>
+</div>
+
+## Technologies and Tools I Use
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://camo.githubusercontent.com/846a58b5795502a7f7b4016dd2c934bad2d3b80341db7ce9fc0ada3c8a1ac2d3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2e737667" alt="Jira" title="Jira" width="40" height="40"/>
