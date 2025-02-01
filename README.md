@@ -11,7 +11,8 @@ My name is Mahambet, and I am a Software QA Engineer. Here, I want to share a po
       <li> ❤️ At Choco, I worked as a Key Account Manager, collaborating with the company's largest partners.</li>
       <li>🏫 I founded and managed my own language school, combining education and business management.</li>
       <li>🌐 I have experience developing websites on platforms like WordPress and OpenCart.</li>
-      <li>📖 I completed a functional software testing course: <a href="link_to_course">Finished functional software testing course</a>.</li>
+      <li>📖 I completed a functional software testing course: <a href="https://drive.google.com/file/d/16xQzSzomFuDaiCTF0sB-EUQCMPiZ2g9P/view?usp=sharing">Finished functional software testing course</a>.</li>
+      <li>📊 I completed an SQL course: <a href="https://drive.google.com/file/d/1KXjrsOIwhpY13G-MgAv2wt0qQsrYCf5R/view?usp=sharing">View my SQL certificate</a>.</li>
       <li>☕ I am also studying Java to improve my skills in test automation.</li>
       <li>📄 Check out my resume: <a href="link_to_resume">Check out my resume</a>.</li>
       <li>🎵 Random fact about me: I love chess, riding bicycles, and listening to Olivia Rodrigo.</li>
