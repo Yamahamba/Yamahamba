@@ -24,8 +24,6 @@ My name is Mahambet, and I am a Software QA Engineer. Here, I want to share a po
 
 ## Technologies and Tools I Use
 
-## Technologies and Tools I Use
-
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 20px;">
   <img src="https://camo.githubusercontent.com/846a58b5795502a7f7b4016dd2c934bad2d3b80341db7ce9fc0ada3c8a1ac2d3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2e737667" alt="Jira" title="Jira" width="40" height="40" style="margin: 0 35px;"/>
   <img src="https://camo.githubusercontent.com/25f6f3de7ca12c8c300b6f0a7b37c48c1e6176ded2f38d770a9d5e9b9d24fce7/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f333862356339353361343636373336363638356435356462353564303537633836646231666335342f61306664632f7374617469632f61636165366232346439343033343736363163613930316561303766343763312f6368726f6d652d6465762d6c6f676f2d69636f6e2e706e67" alt="DevTools" title="DevTools" width="40" height="40" style="margin: 0 35px;"/>
