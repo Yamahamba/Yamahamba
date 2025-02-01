@@ -47,13 +47,13 @@ My name is Mahambet, and I am a Software QA Engineer. Here, I want to share a po
 
 ## Take a look at my repositories and let's get in touch!
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/makhambet-shonov-958740341/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" title="LinkedIn" width="40"/>
   </a>
-  <a href="https://t.me/your-telegram-username" target="_blank" rel="noreferrer">
+  <a href="https://t.me/your-telegram-yamahamba" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" title="Telegram" width="40"/>
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:geniustab1492@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" title="Gmail" width="40"/>
   </a>
 </div>
