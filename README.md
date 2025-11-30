@@ -10,8 +10,7 @@ Here, I share my projects, tools, and experiments that helped me grow from opera
     <ul>
       <li>🚀 I worked at <b>Yandex</b> as a Senior Retail Manager, fully responsible for the <b>entire Retail vertical in Kazakhstan</b> — 500+ partner locations, category expansion, commissions, operational metrics, and data-driven growth decisions.</li>
 
-      <li>🤖 I built my own Telegram bot — <b>Yamahamba CareerFriend</b>  
-      (<a href="https://t.me/yamahamba_ai2_bot">@yamahamba_ai2_bot</a>) — an AI-powered assistant that helps users create CVs, write cover letters, choose direction, build job-search strategies, and prepare for interviews.</li>
+      <li>🤖 I built my own Telegram bot — <b>Yamahamba CareerFriend</b> (<a href="https://t.me/yamahamba_ai2_bot">@yamahamba_ai2_bot</a>) — an AI-powered assistant that helps users create CVs, write cover letters, choose direction, build job-search strategies, and prepare for interviews.</li>
 
       <li>✅ I worked at Kaspi Bank (Kaspi Store & Kaspi Delivery) where I managed partner processes, metrics, and key operational flows.</li>
 
@@ -21,11 +20,13 @@ Here, I share my projects, tools, and experiments that helped me grow from opera
 
       <li>🌐 I developed custom websites on WordPress and OpenCart, handling both UI/UX structure and backend configuration.</li>
 
-      <li>📖 I completed a functional software testing course:  
-      <a href="https://drive.google.com/file/d/16xQzSzomFuDaiCTF0sB-EUQCMPiZ2g9P/view?usp=sharing">View certificate</a>.</li>
+      <li>📖 I completed a functional software testing course:
+        <a href="https://drive.google.com/file/d/16xQzSzomFuDaiCTF0sB-EUQCMPiZ2g9P/view?usp=sharing">View certificate</a>.
+      </li>
 
-      <li>📊 I completed an SQL course:  
-      <a href="https://drive.google.com/file/d/1KXjrsOIwhpY13G-MgAv2wt0qQsrYCf5R/view?usp=sharing">View certificate</a>.</li>
+      <li>📊 I completed an SQL course:
+        <a href="https://drive.google.com/file/d/1KXjrsOIwhpY13G-MgAv2wt0qQsrYCf5R/view?usp=sharing">View certificate</a>.
+      </li>
 
       <li>☕ I’m studying Java to strengthen my analytical and automation skills.</li>
 
