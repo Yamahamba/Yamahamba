@@ -1,5 +1,5 @@
 ## Hey, let me find some
-My name is Makhambet, and I’m moving into **Product Management / Analytics** from a strong background in retail and QA. Here, I want to share a portfolio of projects and experiments that I’ve built while learning, working and doing pet projects.
+My name is Makhambet, and I’m moving into **Product Management / Analytics** from a strong background in retail operations and product analytics. Here, I want to share a portfolio of projects and experiments that I’ve built while learning, working and doing pet projects.
 
 ## A Few Quick Facts
 
