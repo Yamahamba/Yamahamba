@@ -1,6 +1,6 @@
 ## Hey, let me find some
 
-My name is Mahambet, and I’m transitioning into **Product Management / Analytics** after several years of hands-on work in retail tech, partner operations, data-driven decision-making and side engineering projects.  
+My name is Makhambet, and I’m transitioning into **Product Management / Analytics** after several years of hands-on work in retail tech, partner operations, data-driven decision-making and side engineering projects.  
 Here, I share my projects, tools, and experiments that helped me grow from operations → analysis → product thinking.
 
 ## A Few Quick Facts
