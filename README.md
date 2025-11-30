@@ -3,42 +3,50 @@
 My name is Makhambet, and I’m transitioning into **Product Management / Analytics** after several years of hands-on work in retail tech, partner operations, data-driven decision-making and side engineering projects.  
 Here, I share my projects, tools, and experiments that helped me grow from operations → analysis → product thinking.
 
-## A Few Quick Facts
+<h2>A Few Quick Facts</h2>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div>
-    <ul>
-      <li>🚀 I worked at <b>Yandex</b> as a Senior Retail Manager, fully responsible for the <b>entire Retail vertical in Kazakhstan</b> — 500+ partner locations, category expansion, commissions, operational metrics, and data-driven growth decisions.</li>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
 
-      <li>🤖 I built my own Telegram bot — <b>Yamahamba CareerFriend</b> (<a href="https://t.me/yamahamba_ai2_bot">@yamahamba_ai2_bot</a>) — an AI-powered assistant that helps users create CVs, write cover letters, choose direction, build job-search strategies, and prepare for interviews.</li>
+  <div style="flex: 1;">
+    <ul style="font-size: 16px; line-height: 1.55;">
+      
+      <li>🚀 I worked at <b>Yandex</b> as a Senior Retail Manager, fully responsible for the 
+      <b>entire Retail vertical in Kazakhstan</b> — 500+ partner locations, category expansion, commissions, 
+      operational metrics, and data-driven growth decisions.</li>
 
-      <li>✅ I worked at Kaspi Bank (Kaspi Store & Kaspi Delivery) where I managed partner processes, metrics, and key operational flows.</li>
+      <li>🤖 I built my own Telegram bot — <b>Yamahamba CareerFriend</b> 
+      (<a href="https://t.me/yamahamba_ai2_bot">@yamahamba_ai2_bot</a>) — an AI-powered assistant that helps users create CVs, 
+      write cover letters, choose direction, build job-search strategy, and prepare for interviews.</li>
 
-      <li>❤️ At Choco, I worked as a Key Account Manager, owning full-cycle work with the largest partners and improving operational performance.</li>
+      <li>✅ I worked at <b>Kaspi Bank</b> (Kaspi Store & Kaspi Delivery), managing partner processes, metrics, and operational workflows.</li>
+
+      <li>❤️ At <b>Choco</b>, I worked as a Key Account Manager, owning full-cycle work with the biggest partners.</li>
 
       <li>🏫 I founded and managed my own language school, combining education, product thinking, and business operations.</li>
 
-      <li>🌐 I developed custom websites on WordPress and OpenCart, handling both UI/UX structure and backend configuration.</li>
+      <li>🌐 I developed custom websites using WordPress and OpenCart, handling both UI/UX and backend configuration.</li>
 
-      <li>📖 I completed a functional software testing course:
-        <a href="https://drive.google.com/file/d/16xQzSzomFuDaiCTF0sB-EUQCMPiZ2g9P/view?usp=sharing">View certificate</a>.
-      </li>
+      <li>📖 I completed a functional software testing course: 
+      <a href="https://drive.google.com/file/d/16xQzSzomFuDaiCTF0sB-EUQCMPiZ2g9P/view?usp=sharing">View certificate</a>.</li>
 
-      <li>📊 I completed an SQL course:
-        <a href="https://drive.google.com/file/d/1KXjrsOIwhpY13G-MgAv2wt0qQsrYCf5R/view?usp=sharing">View certificate</a>.
-      </li>
+      <li>📊 I completed an SQL course: 
+      <a href="https://drive.google.com/file/d/1KXjrsOIwhpY13G-MgAv2wt0qQsrYCf5R/view?usp=sharing">View certificate</a>.</li>
 
-      <li>☕ I’m studying Java to strengthen my analytical and automation skills.</li>
+      <li>☕ I’m studying Java to strengthen my analytical thinking and automation skills.</li>
 
       <li>🎵 Random fact: I love chess, cycling, and occasionally listening to Olivia Rodrigo.</li>
     </ul>
   </div>
 
-  <div>
-    <img src="https://github.com/Yamahamba/Yamahamba/blob/main/assets/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64322f31322f63652f64323132636534633935393534666166373432376662653934316135353466382e676966.gif" alt="GIF" width="300" style="border-radius: 10px;"/>
+  <div style="flex-shrink: 0;">
+    <img 
+      src="https://github.com/Yamahamba/Yamahamba/blob/main/assets/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64322f31322f63652f64323132636534633935393534666166373432376662653934316135353466382e676966.gif" 
+      width="280" 
+      style="border-radius: 12px;"
+    />
   </div>
-</div>
 
+</div>
 
 ## Technologies and Tools I Use
 
