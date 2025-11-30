@@ -1,24 +1,38 @@
-
 ## Hey, let me find some
-My name is Mahambet, and I am a Software QA Engineer. Here, I want to share a portfolio of web application projects and testing that I have developed during my studies and work on pet projects.
+
+My name is Mahambet, and I’m transitioning into **Product Management / Analytics** after several years of hands-on work in retail tech, partner operations, data-driven decision-making and side engineering projects.  
+Here, I share my projects, tools, and experiments that helped me grow from operations → analysis → product thinking.
 
 ## A Few Quick Facts
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div>
     <ul>
-      <li>🚀 I worked at <b>Yandex</b> as a Senior Retail Manager, managing 500+ partner locations and key operational metrics.</li>
-      <li>✅ I worked at Kaspi Bank in the Kaspi Store and Kaspi Delivery departments, where I was responsible for key processes and partner interactions.</li>
-      <li>❤️ At Choco, I worked as a Key Account Manager, collaborating with the company's largest partners.</li>
-      <li>🤖 I built my own Telegram bot — <b>Yamahamba CareerFriend</b> — a career assistant that helps users create CVs, write cover letters, and prepare for interviews.</li>
-      <li>🏫 I founded and managed my own language school, combining education and business management.</li>
-      <li>🌐 I have experience developing websites on platforms like WordPress and OpenCart.</li>
-      <li>📖 I completed a functional software testing course: <a href="https://drive.google.com/file/d/16xQzSzomFuDaiCTF0sB-EUQCMPiZ2g9P/view?usp=sharing">View certificate</a>.</li>
-      <li>📊 I completed an SQL course: <a href="https://drive.google.com/file/d/1KXjrsOIwhpY13G-MgAv2wt0qQsrYCf5R/view?usp=sharing">View certificate</a>.</li>
-      <li>☕ I am studying Java to improve my skills in test automation and backend logic.</li>
-      <li>🎵 Random fact: I love chess, cycling, and listening to Olivia Rodrigo.</li>
+      <li>🚀 I worked at <b>Yandex</b> as a Senior Retail Manager, fully responsible for the <b>entire Retail vertical in Kazakhstan</b> — 500+ partner locations, category expansion, commissions, operational metrics, and data-driven growth decisions.</li>
+
+      <li>🤖 I built my own Telegram bot — <b>Yamahamba CareerFriend</b>  
+      (<a href="https://t.me/yamahamba_ai2_bot">@yamahamba_ai2_bot</a>) — an AI-powered assistant that helps users create CVs, write cover letters, choose direction, build job-search strategies, and prepare for interviews.</li>
+
+      <li>✅ I worked at Kaspi Bank (Kaspi Store & Kaspi Delivery) where I managed partner processes, metrics, and key operational flows.</li>
+
+      <li>❤️ At Choco, I worked as a Key Account Manager, owning full-cycle work with the largest partners and improving operational performance.</li>
+
+      <li>🏫 I founded and managed my own language school, combining education, product thinking, and business operations.</li>
+
+      <li>🌐 I developed custom websites on WordPress and OpenCart, handling both UI/UX structure and backend configuration.</li>
+
+      <li>📖 I completed a functional software testing course:  
+      <a href="https://drive.google.com/file/d/16xQzSzomFuDaiCTF0sB-EUQCMPiZ2g9P/view?usp=sharing">View certificate</a>.</li>
+
+      <li>📊 I completed an SQL course:  
+      <a href="https://drive.google.com/file/d/1KXjrsOIwhpY13G-MgAv2wt0qQsrYCf5R/view?usp=sharing">View certificate</a>.</li>
+
+      <li>☕ I’m studying Java to strengthen my analytical and automation skills.</li>
+
+      <li>🎵 Random fact: I love chess, cycling, and occasionally listening to Olivia Rodrigo.</li>
     </ul>
   </div>
+
   <div>
     <img src="https://github.com/Yamahamba/Yamahamba/blob/main/assets/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64322f31322f63652f64323132636534633935393534666166373432376662653934316135353466382e676966.gif" alt="GIF" width="300" style="border-radius: 10px;"/>
   </div>
@@ -39,7 +53,7 @@ My name is Mahambet, and I am a Software QA Engineer. Here, I want to share a po
     <img src="https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="VS Code" title="Visual Studio Code" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer" style="margin: 0 50px;">
-    <img src="https://camo.githubusercontent.com/0e06a7f51b2b47d127ed51c45b3286f1cd10d315432cb683748cc13d94552343/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f78636f64652f78636f64652d6f726967696e616c2e737667" alt="Xcode" title="Xcode" width="40" height="40"/>
+    <img src="https://camo.githubusercontent.com/0e06a7f51b2b47d127ed51c45b3286f1cd10d315432cb683748cc13d94552343/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e2f69636f6e732f78636f64652f78636f64652d6f726967696e616c2e737667" alt="Xcode" title="Xcode" width="40" height="40"/>
   </a>
   <img src="https://camo.githubusercontent.com/730e7031923407fef5960eef1c98a5b45027133eeef7d9f55f561a210e7b251c/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3931392f3931393832372e706e67" alt="HTML" title="HTML" width="40" height="40" style="margin: 0 50px;"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="WordPress" title="WordPress" width="40" height="40" style="margin: 0 50px;"/>
