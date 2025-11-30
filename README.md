@@ -7,20 +7,23 @@ My name is Mahambet, and I am a Software QA Engineer. Here, I want to share a po
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div>
     <ul>
+      <li>🚀 I worked at <b>Yandex</b> as a Senior Retail Manager, managing 500+ partner locations and key operational metrics.</li>
       <li>✅ I worked at Kaspi Bank in the Kaspi Store and Kaspi Delivery departments, where I was responsible for key processes and partner interactions.</li>
-      <li> ❤️ At Choco, I worked as a Key Account Manager, collaborating with the company's largest partners.</li>
+      <li>❤️ At Choco, I worked as a Key Account Manager, collaborating with the company's largest partners.</li>
+      <li>🤖 I built my own Telegram bot — <b>Yamahamba CareerFriend</b> — a career assistant that helps users create CVs, write cover letters, and prepare for interviews.</li>
       <li>🏫 I founded and managed my own language school, combining education and business management.</li>
       <li>🌐 I have experience developing websites on platforms like WordPress and OpenCart.</li>
-      <li>📖 I completed a functional software testing course: <a href="https://drive.google.com/file/d/16xQzSzomFuDaiCTF0sB-EUQCMPiZ2g9P/view?usp=sharing">Finished functional software testing course</a>.</li>
-      <li>📊 I completed an SQL course: <a href="https://drive.google.com/file/d/1KXjrsOIwhpY13G-MgAv2wt0qQsrYCf5R/view?usp=sharing">View my SQL certificate</a>.</li>
-      <li>☕ I am also studying Java to improve my skills in test automation.</li>
-      <li>🎵 Random fact about me: I love chess, riding bicycles, and listening to Olivia Rodrigo.</li>
+      <li>📖 I completed a functional software testing course: <a href="https://drive.google.com/file/d/16xQzSzomFuDaiCTF0sB-EUQCMPiZ2g9P/view?usp=sharing">View certificate</a>.</li>
+      <li>📊 I completed an SQL course: <a href="https://drive.google.com/file/d/1KXjrsOIwhpY13G-MgAv2wt0qQsrYCf5R/view?usp=sharing">View certificate</a>.</li>
+      <li>☕ I am studying Java to improve my skills in test automation and backend logic.</li>
+      <li>🎵 Random fact: I love chess, cycling, and listening to Olivia Rodrigo.</li>
     </ul>
   </div>
   <div>
     <img src="https://github.com/Yamahamba/Yamahamba/blob/main/assets/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64322f31322f63652f64323132636534633935393534666166373432376662653934316135353466382e676966.gif" alt="GIF" width="300" style="border-radius: 10px;"/>
   </div>
 </div>
+
 
 ## Technologies and Tools I Use
 
