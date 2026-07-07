@@ -9,7 +9,6 @@ My name is Makhambet, and I’m moving into **Product Management / Analytics** f
       <li>🚀 I worked at <b>Yandex</b> as a Senior Retail Manager, fully responsible for the <b>entire Retail vertical in Kazakhstan</b> — 500+ partner locations, category expansion, commissions, operational metrics and growth decisions.</li>
       <li>🤖 I built my own Telegram bot — <b>Yamahamba CareerFriend</b> (<a href="https://t.me/yamahamba_ai2_bot">@yamahamba_ai2_bot</a>) — a career assistant that helps users create CVs, write cover letters, choose direction and prepare for interviews.</li>
       <li>✅ I worked at Kaspi Bank in the Kaspi Store and Kaspi Delivery departments, where I was responsible for key processes and partner interactions.</li>
-      <li>❤️ At Choco, I worked as a Key Account Manager, collaborating with the company's largest partners.</li>
       <li>🏫 I founded and managed my own language school, combining education and business management.</li>
       <li>🌐 I have experience developing websites on platforms like WordPress and OpenCart.</li>
       <li>📖 I completed a functional software testing course: <a href="https://drive.google.com/file/d/16xQzSzomFuDaiCTF0sB-EUQCMPiZ2g9P/view?usp=sharing">View certificate</a>.</li>
